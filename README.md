@@ -1,2 +1,2 @@
 # python_course
-Examole repo for python course
+Example repo for python course
